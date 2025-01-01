@@ -36,10 +36,71 @@ Welcome to my GitHub profile! I am a bioinformatics engineer passionate about ce
 - **English:** Conversational reading and speaking
 - **French:** Native
 
-## 📫 Contact
+## 🎓 Education
 
-- **📱 Phone:** +33 6 33 12 17 37
-- **📧 Email:** benjamin.demaille@icloud.com
+- **Master's in BioMed**  
+  University of Montpellier
+- **Master's in Bioinformatics (GENIOMHE)**  
+  Paris-Saclay University
+
+## 💼 Professional Experience
+
+- **Bioinformatics Engineer**  
+  Institut Curie, Paris  
+  *2022 - 2023 (20 months)*  
+  - Computational Biologist in the U932 - Salmon Team
+  - Utilized Kallisto for bulk RNA-Seq alignment and RNA Velocity on scRNA-Seq
+  - Conducted bulk RNA-Seq analysis with DESeq2
+  - Performed scRNA-Seq, 10X Visium, and Vizgen MERFISH analysis with Seurat
+
+- **Bioinformatics Engineer**  
+  IFB-Core and ARTBio Sorbonne University, Paris  
+  *2022 (2 months)*  
+  - Developed workflows for COVID-19 surveillance
+
+- **M2 Internship**  
+  LISN, Orsay  
+  *2019 (6 months)*  
+  - Statistics and Genetics: Dimension reduction adapted to paleogenomics
+  - Simulated demographic scenarios with msprime (Python)
+  - Tested and improved dimension reduction methods
+  - Established evaluation criteria for the method
+  - Contributed to the development of the R package "TemporalDR"
+  - Used Snakemake and GitLab for tracking
+
+- **M1 Internship**  
+  CEA Fontenay-aux-Roses, Paris  
+  *2018 (5 months)*  
+  - Transcriptomic analyses of murine neural progenitors
+  - Whole transcriptome analysis with R of Affymetrix data
+  - Used Ingenuity Pathway Analysis
+  - scRNA-Seq analysis via Monocle R
+
+- **M1 Internship**  
+  Institut Cochin Inserm U1016, Paris  
+  *2017 (2 months)*  
+  - Genomic Team of Remi Cheynier / GENOM’IC
+  - Transcriptomic study on the effect of interleukin 7 on chemokine production by vaginal mucosa cells
+  - Transcriptomic analysis of primate tissues treated with IL-7
+  - Created R scripts for whole transcriptome analysis of Affymetrix data
+  - Used Ingenuity Pathway Analysis
+
+- **M2 Internship**  
+  IGH CNRS UMR9002, Montpellier  
+  *2015 (6 months)*  
+  - IMGT®
+  - Identification of genotype and haplotypes of IG and TR genes from NGS repertoire sequencing analysis
+  - Created Perl scripts
+  - Used UNIX environment
+
+- **M1 Internship**  
+  IGMM CNRS UMR 5535, Montpellier  
+  *2014 (2 months)*  
+  - Nuclear Control of Cell Proliferation
+  - Phosphorylation of histone H3 at serine 57
+  - Western blot, BCA, Histone purification
+  - R-HPLC
+  - Cell culture (U2OS)
 
 ## 📚 Publications
 
@@ -60,6 +121,11 @@ Welcome to my GitHub profile! I am a bioinformatics engineer passionate about ce
 - **Abstract 4603: Single-cell and spatial dissection of the effect of combined PD-L1 and TGFb blockade by bintrafusp alfa from the ICING window-of-opportunity trial in resectable locally advanced HNSCC patients**  
   Caroline Hoffmann, Jan-Timon Werle, Jocelyn Gal, et al.  
   Cancer Research, 84(6_Supplement), 4603-4603. [Link to article](https://doi.org/10.1158/1538-7445.AM2024-4603)
+
+## 📫 Contact
+
+- **📱 Phone:** +33 6 33 12 17 37
+- **📧 Email:** benjamin.demaille@icloud.com
 
 ---
 
