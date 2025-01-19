@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a bioinformatics engineer passionate about ce
 - 🎓 Graduated from the BioMed Master's program at the University of Montpellier and the GENIOMHE Bioinformatics Master's program at Paris-Saclay University.
 - 🧪 Skilled in cellular biology, developmental biology, and cancer research.
 - 💻 Proficient in Python, R, genomics, transcriptomics, statistics, and Machine Learning.
-- 🌱 Currently enhancing my knowledge in [technologies or areas you are currently exploring].
+
 
 ## 🔧 Skills & Tools
 
